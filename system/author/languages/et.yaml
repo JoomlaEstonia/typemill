@@ -1,0 +1,269 @@
+# Estonian
+# Author: Rivo Zängov
+ACCOUNT: Konto
+ACTIVE: Aktiivne
+ACTUAL_PASSWORD: Tegelik parool
+ADD: lisa
+ADD_CONTENT_BLOCK: lisa sisuplokk
+ADD_DEFINITION: lisa definitsioon
+ADD_FILE: lisa fail
+ADD_FOLDER: lisa kaust
+ADD_FOLDER_TO_BASE_LEVEL: lisa peatasemele kaust
+ADD_ITEM: lisa kirje
+ADD_LEFT_COLUMN: lisa veerg vasakule
+ADD_RIGHT_COLUMN: lisa veerg paremale
+ADD_ROW_ABOVE: lisa rida üles
+ADD_ROW_BELOW: lisa rida alla
+ADMINISTRATOR: administraator
+ALL: kõik
+ALL_USERS: kõik kasutajad
+ALTERNATIVE_TEXT_FOR_THE_HERO_IMAGE: alternatiivne tekst peamisele pildile
+ALT_TEXT: alt-tekst
+AUTHOR: autor
+AUTHOR_DESCRIPTION_(MARKDOWN): autori kirjeldus (markdown)
+BACK_TO_STARTPAGE: tagasi avalehele
+BOLD: rasvane
+BOTTOM: all
+BROWSE: SIRVI
+BULLET_LIST: loend
+BY: lisas
+CANCEL: loobu
+CAN_BE_USED_FOR_AUTHOR_LINE_IN_FRONTEND_: Võib kasutada saidil autori rea jaoks.
+CAPTION: pealkiri
+CELL: lahter
+CENTER: keskel
+CHECK: kontrolli
+CHOOSE_FILE: vali fail
+CLASS: klass
+CLOSE_LIBRARY: sulge teek
+CODE: kood
+COG: hammasratas
+CONTENT: sisu
+COPYRIGHT: autoriõigused
+CREATED_AT_(READONLY): Loodud (kirjutuskaitstud)
+CREATED_AT_(READ_ONLY): Loodud (kirjutuskaitstud)
+CREATE_NEW_USER: Loo uus kasutaja
+CREATE_USER: Loo kasutaja
+CROSS: rist
+CUSTOM_CSS: Kohandatud CSS
+DEFINITION: definitsioonide nimekiri
+DEFINITION_LIST: definitsioonide nimekiri
+DELETE: kustuta
+DELETE_CLOSE: kustuta/sulge
+DELETE_COLUMN: kustuta veerg
+DELETE_CONTENT_BLOCK: kustuta sisuplokk
+DELETE_PAGE: kustuta lehekülg
+DELETE_ROW: kustuta rida
+DELETE_USER: kustuta kasutaja
+DESCRIPTION: kirjeldus
+DISCARD: hülga
+DISCARD_CHANGES: hülga muudatused
+DO_YOU_REALLY_WANT_TO_DELETE_THE_USER: Kas sa tõesti soovid kasutajat kustutada
+DO_YOU_REALLY_WANT_TO_DELETE_THIS_PAGE: Kas sa tõesti soovid seda lehekülge kustutada?
+DO_YOU_WANT_TO_DISCARD_YOUR_CHANGES_AND_SET_THE_CONTENT_BACK_TO_THE_LIVE_VERSION: Kas soovid oma muudatused hüljata ning lisada sisu tagasi aktiivsesse versiooni?
+DRAFT: mustand
+DRAG_A_PICTURE_OR_CLICK_TO_SELECT: laadi pilt üles
+DUTCH__FLEMISH: Hollandi, flaami keel
+EDIT: muuda
+EDITOR: redaktor
+EDIT_USER: Muuda kasutajat
+ENGLISH: Inglise
+ESTONIAN: Eesti
+EXTERNAL_LINK: väline-link
+E_G_: nt.
+E_MAIL: e-post
+FAVICON: favicon
+FILE: fail
+FILES: Failid
+FIRST_NAME: eesnimi
+FOLDER: kaust
+FORGOT_PASSWORD: parool ununes
+FORMAT: vorming
+FRENCH: Prantsuse
+GENERAL_PRESENTATION: Üldine esitlus
+GERMAN: Saksa
+GOOGLE_SITEMAP: google sisukaart
+HAS_EDIT_RIGHTS_FOR_THIS_ARTICLE_: On selle artikli muutmise õigused.
+HEAD: Päis
+HEADLINE: Pealkiri
+HEADLINE_ANCHORS: Pealkirjadele ankrud
+HERO_IMAGE: Peamine pilt
+HIDE: Peida
+HIDE_PAGE_FROM_NAVIGATION: Peida lehekülg menüüst
+HOME: avaleht
+HOMEPAGE: Avaleht
+HORIZONTAL_LINE: Horisontaalne rida
+HR: hr
+IF_NOT_FILLED__THE_DESCRIPTION_IS_EXTRACTED_FROM_CONTENT_: Kui see pole täidetud, siis võetakse kirjeldus sisust.
+IMAGE: Pilt
+IMAGES: Pildid
+IMAGE_URL: Pildi URL
+IMAGE_URL_(READ_ONLY): Pildi URL (kirjutuskaitstud)
+ITALIAN: Itaalia
+ITALIC: kaldkiri
+LANGUAGE: Keel
+LANGUAGE_ADMIN: Keel (adminiliides)
+LANGUAGE_ATTR: Keele omadus (veebisait)
+LAST_MODIFIED_LIVE_(READONLY): Viimati saidil muudetud (kirjutuskaitstud)
+LAST_NAME: Perekonnanimi
+LEFT: Vasakul
+LICENCE: Litsents
+LINK: Link
+LINK_TO_VIDEO: Link videole
+LOGIN: Logi sisse
+LOGO: Logo
+LOGOUT: Logi välja
+MANUAL_DATE: Kuupäev käsitsi
+MARKDOWN: markdown
+MAXIMUM_SIZE_FOR_AN_IMAGE_IS_5_MB__HERO_IMAGES_ARE_NOT_SUPPORTED_BY_ALL_THEMES_: Maksimaalne pildi suurus on 5 MB. Kõik teemad ei toeta peamise pildi kasutamist.
+MEMBER: liige
+MENU: Menüü
+META: meta
+META_DESCRIPTION: Meta kirjeldus
+META_TITLE: Meta pealkiri
+MISSING_REQUIREMENTS: Täitmata nõuded
+MOVE_VERTICAL: liiguta vertikaalselt
+NAVIGATION_TITLE: Menüü pealkiri
+NEW_PASSWORD: Uus parool
+NONE: Pole
+NOTICE: Märkus
+NOT_EDITABLE: pole muudetav
+NO_DESCRIPTION: Kirjeldust pole
+NO_PREVIEW: Eelvaadet pole
+NO_SETTINGS: Seadeid pole
+NUMBERED_LIST: Nummerdatud loetelu
+OLIST: olist
+ONLINE: saidil
+ONLY_THE_FOLLOWING_SPECIAL_CHARACTERS_ARE_ALLOWED: Lubatud on ainult järgnevad erimärgid
+OWNER_(USERNAME): omanik (kasutajanimi)
+PARAGRAPH: Lõik
+PASSWORD: Parool
+PLEASE_CONFIRM: Palun kinnita
+PLEASE_CORRECT_THE_ERRORS_ABOVE: Palun paranda ülal näidatud vead
+PLUGINS: Pluginad
+PLUGIN_STORE: Pluginate pood
+POWER_OFF: lülita-välja
+PROFILE_IMAGE: Profiili-pilt
+PUBLISH: Avalik
+QUOTE: Tsitaat
+QUOTES: Tsitaat
+RAW: toortekst
+RAW_CONTENT_EDITOR: Toorsisu muutmine
+RAW_MARKDOWN_EDITOR: Toore Markdown redaktor
+RAW_MODE: toorteksti režiim
+RAW_USERDATA_(READONLY_FOR_ADMINS): Toored kasutajaandmed (adminide jaoks ainult kirjutuskaitstud)
+READONLY: Kirjutuskaitstud
+REGISTERED_USERS_ONLY: ainult registreerunud kasutajad
+REMEMBER_TO_BOOKMARK_THIS_PAGE: Pane sellele leheküljele järjehoidja
+REQUIRED: Nõutud
+RIGHT: Paremal
+ROLE: Roll
+RUSSIAN: Vene
+SAVE: Salvesta
+SAVED_SUCCESSFULLY: Salvestatud
+SAVE_ALL_SETTINGS: Salvesta kõik seaded
+SAVE_THEME: Salvesta teema
+SELECT_FROM_MEDIALIB: vali medialib-ist
+SETTINGS: Seaded
+SETTINGS_ARE_STORED: Seaded on salvestatud
+SETUP: Seadistamine
+SHOW_ANCHORS_NEXT_TO_HEADLINES: Näita pealkirjade kõrval ankruid
+STANDARD_EDITOR_MODE: Tavaline redaktori režiim
+START: Algus
+SYSTEM: Süsteem
+TABLE: Tabel
+TABLE_OF_CONTENTS: Sisukord
+TAKEN_FROM_YOUR_USER_ACCOUNT_IF_SET_: Kui kasutajakonto on määratud, siis see võetakse sealt.
+TERM: termin
+TEXT_FILE: tekstifail
+THEMES: Teemad
+THEME_STORE: Teemade pood
+THE_FORMAT_BUTTONS: Vormingu nupud
+TITLE: Pealkiri
+TOC: sisukord
+TOP: Üles
+TYPEMILL_DESCRIPTION: Typemilli vaikimisi kujundus. Mobiilisõbralik, minimalistlik ja ei sõltu mingist muust tarkvarast. See kasutab süsteemifonte Calibri ja Helvetica.  JavaSkripti ei kaustata.
+ULIST: ulist
+UNKNOWN: Tundmatu
+UPDATE_USER: Uuenda kasutajat
+UPLOAD: laadi üles
+UPLOAD_AN_IMAGE: laadi pilt üles
+UPLOAD_FILE: Laadi fail üles
+UPS__WRONG_PASSWORD_OR_USERNAME__PLEASE_TRY_AGAIN_: Oih, vale parool või kasutajanimi. Palun proovi uuesti.
+USED_AS_FALLBACK_WHEN_NO_MANUAL_DATE_IS_SET_: Kui kuupäeva käsitsi ei sisestata, siis kasutatakse seda.
+USER: Kasutaja
+USERNAME: Kasutajanimi
+USERNAME_(READ_ONLY): Kasutajanimi (kirjutuskaitstud)
+USERS: Kasutajad
+USE_2_TO_20_CHARACTERS: Kasuta 2 kuni 20 märki.
+USE_2_TO_40_CHARACTERS: Kasuta 2 kuni 40 märki.
+USE_A_VALID_LANGUAGE_ATTRIBUTE: Kasuta korrektset keele atribuuti
+USE_A_VALID_YEAR: Kasuta korrektset aastat
+VIDEO: Video
+VIEW_SITE: Vaata saiti
+VISUAL: visuaalne
+VISUAL_CONTENT_EDITOR: Visuaalne sisu redaktor
+VISUAL_EDITOR: Visuaalne redaktor
+VISUAL_MARKDOWN_EDITOR: Visuaalne Markdowni redaktor
+VISUAL_MODE: visuaalne režiim
+WAIT: oota
+WEB: Veeb
+WEBSITE_TITLE: Veebisaidi pealkiri
+WEBSITE_VISIBLE_FOR: Veebisait on nähtav
+WRITING: Kirjutamine
+YEAR: Aasta
+YOU_CAN_OVERWRITE_THE_THEME_CSS_WITH_YOUR_OWN_CSS_HERE_: Sa võid siin oma CSS koodiga kirjutada üle failis theme-css oleva koodi.
+
+ADD_NEW_FEATURES_TO_YOUR_WEBSITE_WITH_PLUGINS_AND_CONFIGURE_THEM_: Lisa oma veebisaidile uusi funktsioone pluginatega ja seadista neid siin.
+BY_THE: poolt
+CHOOSE_A_THEME_FOR_YOUR_WEBSITE_AND_CONFIGURE_THE_THEME_DETAILS_: Vali oma veebisaidile kujundus ja seadista seda siin.
+CODED_WITH: Kood
+COMMUNITY: kogukond
+CONFIGURE_YOUR_WEBSITE: Seadista oma veebisaiti
+DOCS: dokumentatsioon
+GET_HELP: Hangi abi
+GIVE_YOUR_NEW_WEBSITE_A_NAME__ADD_THE_AUTHOR_AND_CHOOSE_A_COPYRIGHT_: Anna oma uuele veebisaidile nimi, lisa autor ning vali autoriõigused.
+HURRA: Hurraa
+IF_YOU_HAVE_ANY_QUESTIONS__PLEASE_READ_THE: Kui sul on küsimusi, siis palun loe
+NEXT_STEP: Järgmine samm
+OR_OPEN_A_NEW_ISSUE_ON: või ava uus probleem saidil
+SETUP_WELCOME: Seadistamise alustamine
+TRENDSCHAU_DIGITAL: Trendschau Digital
+VISIT_THE_AUTHOR_PANEL_AND_SETUP_YOUR_NEW_WEBSITE__YOU_CAN_CONFIGURE_THE_SYSTEM__CHOOSE_THEMES_AND_ADD_PLUGINS_: Külasta autori paneeli ja seadista oma uus veebisait. Seadista süsteemi, vali teemad ja lisa pluginaid.
+YOUR_ACCOUNT_HAS_BEEN_CREATED_AND_YOU_ARE_LOGGED_IN_NOW_: Sinu konto on loodud ning oled nüüd sisse logitud.
+
+ACCESS_CONTROL: Ligipääsu kontroll
+ACTIVATE_INDIVIDUAL_RESTRICTIONS_FOR_PAGES_IN_THE_META_TAB_OF_EACH_PAGE_: Lisa üksikutele lehekülgedele ligipääsupiiranguid iga lehekülge andmete lehel.
+ADD_ONE_OR_MORE_USERNAMES_SEPARATED_WITH_COMMA_: Lisa üks või mitu komadega eraldatud kasutajanime.
+CUT_RESTRICTED_CONTENT_AFTER_THE_FIRST_HR_ELEMENT_ON_A_PAGE_(PER_DEFAULT_CONTENT_WILL_BE_CUT_AFTER_TITLE)_: Lõika piiratud sisu ära pärast esimest hr-elementi lehel (vaikimisi lõigatakse sisu ära pärast pealkirja).
+FOR_ACCESS_THE_USER_MUST_HAVE_THIS_MINIMUM_ROLE: Ligipääsemiseks peab kasutajal olema vähemalt see roll
+LIMIT_THE_ACCESS_FOR_THE_WHOLE_WEBSITE_OR_FOR_EACH_PAGE_INDIVIDUALLY__IF_YOU_ACTIVATE_THE_WEBSITE_RESTRICTION_OR_THE_PAGE_RESTRICTIONS__THEN_SESSIONS_WILL_BE_USED_IN_FRONTEND_: Piira ligipääsu tervele veebisaidile või üksikute lehekülgede kaupa. Kui piirad ligipääsu tervele saidile või lehekülgedele, siis kasutatakse saidil kaustaja sessioone.
+ONLY_THE_FOLLOWING_USERS_HAVE_ACCESS: Ligipääs on ainult neil kasutajatel
+PAGE_RESTRICTIONS___ACTIVATE: Lehekülje piirangud - Aktiveeri
+PAGE_RESTRICTIONS___CUT_RESTRICTED_CONTENT: Lehekülje piirangud - Lõika piiratud sisu ära
+PAGE_RESTRICTIONS___NOTICE: Lehekülje piirangud - Teavitus
+PAGE_RESTRICTIONS___WRAP_NOTICE_INTO_A_BOX: Lehekülje piirangud - Põimi teavitus kasti
+SELECT_THE_LOWEST_USERROLE__HIGHER_ROLES_WILL_HAVE_ACCESS_TOO_: vali madalaim kasutajaroll. Kõrgematel rollidel on ka ligipääs.
+SHOW_THE_WEBSITE_ONLY_TO_AUTHENTICATED_USERS_AND_REDIRECT_ALL_OTHER_USERS_TO_THE_LOGIN_PAGE_: Näita veebisaiti ainult sisse loginud kasutajatele ning suuna kõik teised külastajad sisselogimislehele.
+USE_MARKDOWN: kasuta markdown-i
+WEBSITE_RESTRICTION: Veebisaidi piirang
+WRAP_THE_RESTRICTION_NOTICE_ABOVE_INTO_A_NOTICE_4_ELEMENT_(WHICH_CAN_BE_DESIGNED_AS_SPECIAL_BOX): Põimi piirangute teavitus ülal olevasse notice-4 elementi (mida saab määrata eriteatega kastiks)
+
+ACTIVATE_CACHE_FOR_TWIG_TEMPLATES: Aktiveeri Twig mallide vahemälu
+ADD_MORE_URL_SCHEMES_FOR_EXTERNAL_LINKS_E_G__LIKE_DICT://_(COMMA_SEPARATED_LIST): Lisa rohkem URL-i skeeme väliste linkidele nt. dict:// (komadega eraldatud nimekiri)
+CLEAR_CACHE: Tühjenda vahemälu
+DELETE_ALL_CACHE_FILES: Kustuta kõik failid vahemälus
+DEVELOPER: Arendaja
+DISABLE_HEADERS: Keela päised
+DISABLE_TYPEMILL_HEADERS_AND_SEND_YOUR_OWN: Keela Typemilli päised ja kasuta enda omasid
+DISPLAY_APPLICATION_ERRORS: Näita rakenduse veateteid
+ERROR_REPORTING: Veateated
+IF_YOU_ADD_A_VALUE_FOR_THE_HEIGHT__THEN_THE_IMAGE_WILL_BE_CROPPED_: Kui lisad kõrguse väärtuse, siis pilte kärbitakse.
+PROXY: Proksi
+STANDARD_HEIGHT_FOR_IMAGES: Piltide standard kõrgus
+STANDARD_WIDTH_FOR_IMAGES: Piltide standard laius
+THE_FOLLOWING_OPTIONS_ARE_ONLY_FOR_DEVELOPERS: Järgnevad valikud on mõeldud ainult arendajatele ning kogenud administraatoritele. Muuda sätteid ainult siis, kui sa saad tõesti aru, mida need teevad. Näiteks ära aktiveeri kunagi töös oleva saidil vigade näitamist. Kasuta seda ainult vigade parandamiseks.
+THIS_APPLIES_ONLY_FOR_FUTURE_IMAGES_IN_THE_CONTENT_AREA_: Seda rakendatakse ainult sisu ala uutele piltidele.
+TRUSTED_IPS_FOR_PROXY_(COMMA_SEPARATED): Proksiserveri usaldusväärsed IP-aadressid (komadega eraldatud)
+TWIG_CACHE: Twig vahemälu
+USE_X_FORWARDED_HEADERS: Kasuta X-Forwarded päiseid
